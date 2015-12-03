@@ -1,4 +1,4 @@
-// www.pro-link.pl
+// https://www.pro-link.pl
 onload = function(){
     var newdiv = document.createElement('div');
     var divIdName = 'mycookie';
@@ -27,7 +27,6 @@ onload = function(){
     }
 
 }
-
 
 function addcookie() {
 	var CookieDate = new Date;
